@@ -1,4 +1,4 @@
-#Algorithm Design Project
+##Algorithm Design Project
 implementations of vertex coloring for directed graphs and edge coloring for complete graphs using minimum number of colors and execution time (polynomial) + simulation
 
 ## Getting Started
