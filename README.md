@@ -30,3 +30,7 @@ java -jar mincolorcoloring.jar 100 /home/amirphl/output.csv
 ```
 python3.5 runapp.py
 ```
+
+### Examples
+![edge coloring example](https://github.com/amirphl/algorithm-design-project/blob/master/edge-coloring-result-example.PNG)
+![vertex coloring example](https://github.com/amirphl/algorithm-design-project/blob/master/vertex-coloring-result-example.PNG)
